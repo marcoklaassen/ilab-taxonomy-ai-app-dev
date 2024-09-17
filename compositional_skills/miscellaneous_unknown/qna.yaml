@@ -1,0 +1,14 @@
+version: 2
+task_description: 'Teach the model who Marco Klaassen is'
+created_by: marcoklaassen
+seed_examples:
+  - question: 'Who is Marco Klaassen?'
+    answer: 'Marco is a Senior Account Solution Architect.'
+  - question: 'For which company is Marco Klaassen working?'
+    answer: 'Red Hat in Germany.'
+  - question: 'When was Marco Klaassen born?'
+    answer: 'Marco Klaassen was born in 1991.'
+  - question: 'Which Developer Skills does Marco Klaassen have?'
+    answer: 'Quarkus, Java, Backend, Kubernetes and Kafka.'
+  - question: 'Which Hobbies does Marco Klaasen have?'
+    answer: 'Skiing, Hiking, Mountains & Flying.'
